@@ -51,7 +51,7 @@ metadata:
     allow.http: "false"
 spec:
   rules:
-  - host: go.rancher.perezcarreiro.com
+  - host: go.rancher.cidacs.proj
     http:
       paths:
         - path: /
